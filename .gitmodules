@@ -1,0 +1,15 @@
+[submodule "chronograf"]
+	path = chronograf
+	url = git@github.com:hoodlum/docker-chronograf-armhf.git
+[submodule "kapacitor"]
+	path = kapacitor
+	url = git@github.com:hoodlum/docker-kapacitor-armhf.git
+[submodule "influxdb"]
+	path = influxdb
+	url = git@github.com:hoodlum/docker-influxdb-armhf.git
+[submodule "telegraf"]
+	path = telegraf
+	url = git@github.com:hoodlum/docker-telegraf-armhf.git
+[submodule "grafana"]
+	path = grafana
+	url = git@github.com:hoodlum/docker-grafana-armhf.git
