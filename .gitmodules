@@ -13,3 +13,9 @@
 [submodule "grafana"]
 	path = grafana
 	url = git@github.com:hoodlum/docker-grafana-armhf.git
+[submodule "mosquitto"]
+	path = mosquitto
+	url = git@github.com:hoodlum/docker-mosquitto-armhf.git
+[submodule "node-red"]
+	path = node-red
+	url = git@github.com:hoodlum/docker-node-red-armhf.git
