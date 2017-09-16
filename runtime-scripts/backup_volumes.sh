@@ -4,7 +4,7 @@ timestamp() {
   date +"%Y-%m-%dT%H:%M:%S"
 }
 
-volume_prefixes=( influxdb chronograf telegraf kapacitor )
+volume_prefixes=( influxdb chronograf telegraf kapacitor node-red)
 
 for i in "${volume_prefixes[@]}"
 do
